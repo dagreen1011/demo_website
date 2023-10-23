@@ -7,13 +7,13 @@ main:
   - name: Home
     url: '#about'
     weight: 10
-  - name: Posts
+  - name: Delta Airlines
     url: '#posts'
     weight: 20
-  - name: Projects
+  - name: Southwest Airlines
     url: '#projects'
     weight: 30
-  - name: Talks
+  - name: United Airlines
     url: '#talks'
     weight: 40
   - name: Publications
