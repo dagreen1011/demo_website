@@ -1,10 +1,8 @@
 ---
-bio: 
-
+bio: null
 education:
   courses:
   - course: Delta Airlines
-  
 first_name: Shiung Wu
 highlight_name: true
 interests:
